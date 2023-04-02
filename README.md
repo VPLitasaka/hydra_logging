@@ -7,7 +7,7 @@ hydraライブラリとloggingライブラリを組み合わせて使用する�
 
 他の設定をhydraによって読み込みたい場合には，
 
-hydraの公式（https://hydra.cc/docs/1.2/intro/）を参考にして
+hydraの公式 https://hydra.cc/docs/1.2/intro/ を参考にして
 
 loggerディレクトリ以外のディレクトリを作成して利用すればOKです．
 
