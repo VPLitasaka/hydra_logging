@@ -1,0 +1,10 @@
+2023-04-02 23:17:41,515 - __main__ - DEBUG - This is a debug message from main function
+2023-04-02 23:17:41,515 - __main__ - INFO - This is an info message from main function
+2023-04-02 23:17:41,515 - __main__ - WARNING - This is a warning message from main function
+2023-04-02 23:17:41,515 - __main__ - ERROR - This is an error message from main function
+2023-04-02 23:17:41,515 - __main__ - CRITICAL - This is a critical message from main function
+2023-04-02 23:17:41,515 - sub - DEBUG - sub.pyのデバッグレベル
+2023-04-02 23:17:41,515 - sub - INFO - sub.pyのインフォレベル
+2023-04-02 23:17:41,515 - sub - WARNING - sub.pyのワーニングレベル
+2023-04-02 23:17:41,516 - sub - ERROR - sub.pyのエラーレベル
+2023-04-02 23:17:41,516 - sub - CRITICAL - sub.pyのクリティカルレベル

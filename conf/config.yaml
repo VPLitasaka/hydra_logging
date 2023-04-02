@@ -1,0 +1,3 @@
+defaults:
+  - logger: logger
+  - _self_
